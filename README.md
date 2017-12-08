@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(December 07, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Ben Buchalter)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Edit and modify web content based on information retrieved through ajax)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://github.com/Benb2896/WeatherChannel)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Change daily weather forcast by through information from API)
+2. (Adding bootstrap elements)
+3. (Retrieving different information with ajax)
